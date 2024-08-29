@@ -1,0 +1,26 @@
+/* Estilos personalizados */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(229, 230, 230);
+}
+
+header {
+    background-color: #449cfa;
+    color: #fff;
+    align-content: center;
+}
+
+header img {
+    border: 5px solid #fff;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
